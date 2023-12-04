@@ -1,7 +1,7 @@
 baseURL: https://blog.roren.moe/
 languageCode: zh-cn # en-us
 title: Natsumi's Blog
-theme: PaperMod # 主题名字，和themes文件夹下的一致
+theme: PaperMod1 # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
