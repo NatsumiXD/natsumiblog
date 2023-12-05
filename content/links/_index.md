@@ -104,7 +104,7 @@ ShowToc: false
 </style>
 
 
-<div class="frienddiv" onclick="window.open('https://github.com/hsn8086', '_blank');">
+<div class="frienddiv" title="当v1.hitokoto.cn无法访问时主页会出现彩蛋！" onclick="window.open('https://github.com/hsn8086', '_blank');">
     <div class="frienddivleft">
         <img class="myfriend" src="https://avatars.githubusercontent.com/u/51445446?v=4" title="hsn" style="">
     </div>
