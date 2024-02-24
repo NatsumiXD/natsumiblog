@@ -1,6 +1,6 @@
 baseURL: /
 languageCode: zh-cn # en-us
-title: Natsumi's Blog
+title: Rakurin Natsumi|Baka Blog!
 theme: PaperMod # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -36,7 +36,7 @@ languages:
       weight: 1
       profileMode:
         enabled: true
-        title: Roren Natsumi!
+        title: Rakurin Natsumi!
         subtitle: '<div style="text-align: right;"id="quoteContainer"><p id="hitokoto"style="text-align: left;"></p><p id="author"style="text-align: right;"></p></div>  <script>var xhr=new XMLHttpRequest(),timeout=!1;xhr.open("GET","https://v1.hitokoto.cn/",!0);setTimeout(function(){timeout=!0;xhr.abort()},3e3);xhr.onreadystatechange=function(){if(xhr.readyState===XMLHttpRequest.DONE&&!timeout){if(xhr.status===200){var response=JSON.parse(xhr.responseText);var hitokotoElement=document.getElementById("hitokoto");var authorElement=document.getElementById("author");hitokotoElement.innerHTML=response.hitokoto;authorElement.innerHTML="——"+response.from_who}else{var fallbackXhr=new XMLHttpRequest();fallbackXhr.open("GET","../hitokoto/hitokoto.txt",!0);fallbackXhr.onreadystatechange=function(){if(fallbackXhr.readyState===XMLHttpRequest.DONE&&fallbackXhr.status===200){var lines=fallbackXhr.responseText.split("\n");var hitokotoElement=document.getElementById("hitokoto");var authorElement=document.getElementById("author");hitokotoElement.innerHTML=lines[0];authorElement.innerHTML="——"+lines[1]}};fallbackXhr.send()}}};xhr.send();</script>'
         imageUrl: "img/myhead!.jpg"
         imageTitle: 这是我的头！

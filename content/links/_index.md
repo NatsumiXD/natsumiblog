@@ -123,3 +123,23 @@ ShowToc: false
         <div class="friendinfo">世界に忘れられた</div>
     </div>
 </div>
+
+<div class="frienddiv" onclick="window.open('https://young-4.com/', '_blank');">
+    <div class="frienddivleft">
+        <img class="myfriend" src="https://blog-storage.young-4.com/profile.png" title="-4" style="">
+    </div>
+    <div class="frienddivright">
+        <div class="friendname">负4价的yOung元素</div>
+        <div class="friendinfo">Baka</div>
+    </div>
+</div>
+
+<div class="frienddiv" onclick="window.open('https://t.me/+hnErSorp2DU4MjJl', '_blank');">
+    <div class="frienddivleft">
+        <img class="myfriend" src="../img/ros.jpg" title="ros" style="">
+    </div>
+    <div class="frienddivright">
+        <div class="friendname">Rosmontis</div>
+        <div class="friendinfo">另一个Baka</div>
+    </div>
+</div>
