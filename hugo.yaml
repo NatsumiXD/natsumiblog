@@ -104,14 +104,14 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    # description: "这是一个纯粹的博客......"
+    description: "这是一个笨蛋的博客......"
     author: Natsumi
     # author: ["Me", "You"] # multiple authors
 
   
     defaultTheme: dark  # defaultTheme: light or  dark 
     disableThemeToggle: true
-    DateFormat: "2006-01-02"
+    DateFormat: "2007-09-05"
     ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecialistPost: true

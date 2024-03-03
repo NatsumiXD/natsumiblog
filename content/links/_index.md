@@ -106,7 +106,7 @@ ShowToc: false
 
 <div class="frienddiv" title="当v1.hitokoto.cn无法访问时主页会出现彩蛋！" onclick="window.open('https://github.com/hsn8086', '_blank');">
     <div class="frienddivleft">
-        <img class="myfriend" src="https://avatars.githubusercontent.com/u/51445446?v=4" title="hsn" style="">
+        <img class="myfriend" src="/img/hsn.png" title="hsn" style="">
     </div>
     <div class="frienddivright">
         <div class="friendname">hsn8086</div>
@@ -114,9 +114,9 @@ ShowToc: false
     </div>
 </div>
 
-<div class="frienddiv" onclick="window.open('https://gmoe.link/', '_blank');">
+<div class="frienddiv" title="帮了咱很多很多大忙——！" onclick="window.open('https://gmoe.link/', '_blank');">
     <div class="frienddivleft">
-        <img class="myfriend" src="https://www.gmoe.cc/img/gu.jpg" title="Googu" style="">
+        <img class="myfriend" src="/img/googu.jpg" title="Googu" style="">
     </div>
     <div class="frienddivright">
         <div class="friendname">咕谷酱</div>
@@ -126,17 +126,17 @@ ShowToc: false
 
 <div class="frienddiv" onclick="window.open('https://young-4.com/', '_blank');">
     <div class="frienddivleft">
-        <img class="myfriend" src="https://blog-storage.young-4.com/profile.png" title="-4" style="">
+        <img class="myfriend" src="/img/-4.png" title="-4" style="">
     </div>
     <div class="frienddivright">
         <div class="friendname">负4价的yOung元素</div>
-        <div class="friendinfo">Baka</div>
+        <div class="friendinfo">我们终将在 #参宿四 重逢，尽管前路漫漫……</div>
     </div>
 </div>
 
 <div class="frienddiv" onclick="window.open('https://t.me/+hnErSorp2DU4MjJl', '_blank');">
     <div class="frienddivleft">
-        <img class="myfriend" src="../img/ros.jpg" title="ros" style="">
+        <img class="myfriend" src="/img/ros.jpg" title="ros" style="">
     </div>
     <div class="frienddivright">
         <div class="friendname">Rosmontis</div>
