@@ -3,8 +3,8 @@
 
 三个分站：
 
-Vercel: blog.natsumi.dev
+Vercel: https://blog.natsumi.dev/
 
-Netlify: boke.natsumi.dev
+Netlify: https://boke.natsumi.dev/
 
-Cloudflare: buroku.natsumi.dev
+Cloudflare: https://buroku.natsumi.dev/
