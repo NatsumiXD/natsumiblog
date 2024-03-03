@@ -13,7 +13,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45 # 谷歌统计
+googleAnalytics: G-2R2B3LYZ83 # 谷歌统计
 # Copyright: Sulv
 
 paginate: 15    # 首页每页显示的文章数
@@ -111,7 +111,7 @@ params:
   
     defaultTheme: dark  # defaultTheme: light or  dark 
     disableThemeToggle: true
-    DateFormat: "2007-09-05"
+    DateFormat: "2006-01-02"
     ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecialistPost: true
