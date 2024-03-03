@@ -74,7 +74,7 @@ languages:
           - identifier: archives
             name: 📁归档
             url: archives/
-            weight: 20
+            weight: 4
           # - identifier: categories
           #   name: 🧩分类
           #   url: categories
@@ -82,15 +82,19 @@ languages:
           - identifier: tags
             name: 🔖标签
             url: tags
-            weight: 40
+            weight: 5
           - identifier: about
             name: 🍥关于
             url: about
-            weight: 50
+            weight: 6
           - identifier: links
             name: 🚸友链
             url: links
-            weight: 60
+            weight: 7
+          - identifier: BakaDrive
+            name: ☁网盘
+            url: https://bakadrive.natsumi.dev/
+            weight: 8
 
 outputs:
     home:
