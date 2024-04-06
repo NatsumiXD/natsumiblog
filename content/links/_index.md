@@ -104,6 +104,16 @@ ShowToc: false
 </style>
 
 
+<div class="frienddiv" title="世界上最可爱的小猫w！" onclick="window.open('https://mp.qzone.qq.com/u/2305969653?uin=2305969653&is_famous_space=0&brand_flag=0', '_blank');">
+    <div class="frienddivleft">
+        <img class="myfriend" src="/img/tt.png" title="tt" style="">
+    </div>
+    <div class="frienddivright">
+        <div class="friendname">Kairiai</div>
+        <div class="friendinfo">脑婆&世界上最可爱的小猫w！</div>
+    </div>
+</div>
+
 <div class="frienddiv" title="当v1.hitokoto.cn无法访问时主页会出现彩蛋！" onclick="window.open('https://github.com/hsn8086', '_blank');">
     <div class="frienddivleft">
         <img class="myfriend" src="/img/hsn.png" title="hsn" style="">
