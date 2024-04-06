@@ -106,7 +106,7 @@ ShowToc: false
 
 <div class="frienddiv" title="世界上最可爱的小猫w！" onclick="window.open('https://mp.qzone.qq.com/u/2305969653?uin=2305969653&is_famous_space=0&brand_flag=0', '_blank');">
     <div class="frienddivleft">
-        <img class="myfriend" src="/img/tt.png" title="tt" style="">
+        <img class="myfriend" src="/img/tt.jpg" title="tt" style="">
     </div>
     <div class="frienddivright">
         <div class="friendname">Kairiai</div>
