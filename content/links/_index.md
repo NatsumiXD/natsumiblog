@@ -109,7 +109,7 @@ ShowToc: false
         <img class="myfriend" src="/img/tt.jpg" title="tt" style="">
     </div>
     <div class="frienddivright">
-        <div class="friendname">Kairiai</div>
+        <div class="friendname">Kairiai Lee</div>
         <div class="friendinfo">脑婆&世界上最可爱的小猫w！</div>
     </div>
 </div>
