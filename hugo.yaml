@@ -135,8 +135,10 @@ params:
           url: "https://github.com/Natsumixd"
         - name: telegram
           url: "https://t.me/Natsumiawa"
+        - name: matrix
+          url:  "https://matrix.to/#/@rakurinnatsumi:matrix.org"
         - name: twitter
-          url:  "https://twitter.com/LolingNatsumi"
+          url:  "https://twitter.com/LolingNatsumi"        
         - name: QQ
           url: "https://user.qzone.qq.com/2944103698"
         - name: email
