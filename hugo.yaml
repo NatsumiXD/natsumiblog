@@ -95,6 +95,10 @@ languages:
             name: ☁网盘
             url: https://bakadrive.natsumi.dev/
             weight: 8
+          - identifier: Tmail
+            name: ✉️临时邮箱
+            url: https://tmail.natsumi.dev/
+            weight: 9
 
 outputs:
     home:
