@@ -113,7 +113,7 @@ ShowToc: false
         <div class="friendinfo">脑婆&世界上最可爱的小猫w！</div>
     </div>
 </div>
-
+<!-- 
 <div class="frienddiv" title="当v1.hitokoto.cn无法访问时主页会出现彩蛋！" onclick="window.open('https://github.com/hsn8086', '_blank');">
     <div class="frienddivleft">
         <img class="myfriend" src="/img/hsn.png" title="hsn" style="">
@@ -153,3 +153,4 @@ ShowToc: false
         <div class="friendinfo">另一个Baka</div>
     </div>
 </div>
+ -->
