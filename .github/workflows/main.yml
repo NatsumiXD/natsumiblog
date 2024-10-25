@@ -18,6 +18,7 @@ jobs:
         hugo-version: 'latest'
 
     - name: Build
+      working-directory: ./
       run: hugo
 
     - name: Deploy
