@@ -84,7 +84,7 @@ languages:
             url: tags
             weight: 5
           - identifier: about
-            name: 🍥关于
+            name: 😾关于
             url: about
             weight: 6
           - identifier: links
